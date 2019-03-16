@@ -32,13 +32,13 @@ public class AppiumTest {
 	@AfterMethod
 	public void closeapp() {
 		
-		System.out.println("application closed in mobile");
+		System.out.println("application closed in mobile--------------------");
 		
 	}
 	@AfterClass
 	public void quitBroswer() {
 		
-		System.out.println("browser quit in mobile");
+		System.out.println("browser quit in mobile---------------------");
 		
 	}
 
