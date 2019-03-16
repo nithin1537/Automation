@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="165" started-at="2019-03-16T11:23:22Z" finished-at="2019-03-16T11:23:22Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="165" started-at="2019-03-16T11:23:22Z" finished-at="2019-03-16T11:23:22Z">
+      <class name="com.Freecrm.SeleniumTest">
+        <test-method status="PASS" signature="initiatebrowser()[pri:0, instance:com.Freecrm.SeleniumTest@7c75222b]" name="initiatebrowser" is-config="true" duration-ms="1" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiatebrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.Freecrm.SeleniumTest@7c75222b]" name="launch" is-config="true" duration-ms="1" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Freecrm.SeleniumTest@7c75222b]" name="test" duration-ms="0" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:com.Freecrm.SeleniumTest@7c75222b]" name="closeapp" is-config="true" duration-ms="1" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+        <test-method status="PASS" signature="quitBroswer()[pri:0, instance:com.Freecrm.SeleniumTest@7c75222b]" name="quitBroswer" is-config="true" duration-ms="1" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBroswer -->
+      </class> <!-- com.Freecrm.SeleniumTest -->
+      <class name="com.Freecrm.AppiumTest">
+        <test-method status="PASS" signature="initiatebrowser()[pri:0, instance:com.Freecrm.AppiumTest@1cd072a9]" name="initiatebrowser" is-config="true" duration-ms="27" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiatebrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.Freecrm.AppiumTest@1cd072a9]" name="launch" is-config="true" duration-ms="1" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Freecrm.AppiumTest@1cd072a9]" name="test" duration-ms="5" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:com.Freecrm.AppiumTest@1cd072a9]" name="closeapp" is-config="true" duration-ms="1" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+        <test-method status="PASS" signature="quitBroswer()[pri:0, instance:com.Freecrm.AppiumTest@1cd072a9]" name="quitBroswer" is-config="true" duration-ms="3" started-at="2019-03-16T16:53:22Z" finished-at="2019-03-16T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBroswer -->
+      </class> <!-- com.Freecrm.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
