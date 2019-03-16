@@ -12,21 +12,21 @@ public class AppiumTest {
 	@BeforeClass
 	public void initiatebrowser() {
 		
-		System.out.println("browser initiated in mobile: develop branch 1");
+		System.out.println("browser initiated in mobile: develop branch 2");
 		
 	}
 	
 	@BeforeMethod
 	public void launch() {
 		
-		System.out.println("application launched in mobile: develop branch 1");
+		System.out.println("application launched in mobile: develop branch 2");
 		
 	}
 	
 	@Test
 	public void test() {
 		
-		System.out.println("application tested in mobile: develop branch 1");
+		System.out.println("application tested in mobile: develop branch 2");
 		
 	}
 	@AfterMethod
