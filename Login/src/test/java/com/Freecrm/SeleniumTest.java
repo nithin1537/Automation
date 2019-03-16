@@ -14,14 +14,14 @@ public class SeleniumTest {
 	@BeforeClass
 	public void initiatebrowser() {
 		
-		System.out.println("browser initiated in desktop-------------------------");
+		System.out.println("browser initiated in desktop-------------------------develop branch 1");
 		
 	}
 	
 	@BeforeMethod
 	public void launch() {
 		
-		System.out.println("application launched in desktop------------------");
+		System.out.println("application launched in desktop------------------develop branch 1");
 		
 	}
 	
